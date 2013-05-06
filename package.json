@@ -1,0 +1,19 @@
+{
+  "name": "fauxpas",
+  "version": "0.1.0",
+  "description": "Handle embarrassingly awkward errors",
+  "main": "src/fauxpas.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "indieisaconcept/fauxpas"
+  },
+  "keywords": [
+    "error",
+    "events"
+  ],
+  "author": "Jonathan Barnett",
+  "license": "MIT"
+}

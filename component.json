@@ -1,0 +1,10 @@
+{
+  "name": "fauxpas",
+  "version": "0.1.0",
+  "main": "src/fauxpas.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
+}
