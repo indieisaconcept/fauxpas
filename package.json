@@ -8,12 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "indieisaconcept/fauxpas"
+    "url": "https://github.com/indieisaconcept/indieisaconcept/fauxpas"
   },
   "keywords": [
     "error",
     "events"
   ],
-  "author": "Jonathan Barnett",
+  "author": {
+    "name": "Jonathan Barnett",
+    "email": "me@indieisaconcept.com",
+    "url": "http://twitter.com/indieisaconcept"
+  },
   "license": "MIT"
 }
