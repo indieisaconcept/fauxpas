@@ -4,7 +4,7 @@
   "description": "Handle embarrassingly awkward errors",
   "main": "src/fauxpas.js",
   "scripts": {
-    "test": "grunt"
+    "test": ""
   },
   "repository": {
     "type": "git",
